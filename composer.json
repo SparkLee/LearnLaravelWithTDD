@@ -1,11 +1,11 @@
 {
-    "name": "sparklee/php-tdd-scaffold",
+    "name": "sparklee/learn-laravel-with-tdd",
     "type": "project",
-    "description": "PHP TDD（测试驱动开发）脚手架",
+    "description": "以 TDD 的方式学习 Laravel 框架",
     "keywords": [
         "TDD",
         "PHPUnit",
-        "Scaffold"
+        "Laravel"
     ],
     "license": "MIT",
     "authors": [
