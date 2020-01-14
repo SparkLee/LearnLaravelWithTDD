@@ -1,4 +1,4 @@
-# PHP TDD（测试驱动开发）脚手架
+# 以 TDD 的方式学习 Laravel 框架
 
 #### 下载安装 Composer 依赖包
 > 前置条件：本机已经配置好 composer 命令
